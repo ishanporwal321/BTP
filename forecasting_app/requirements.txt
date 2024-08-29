@@ -1,4 +1,6 @@
-pip==24.2
-setuptools>=58.0.4
-wheel>=0.37.0
-fbprophet
+numpy
+Cython
+pystan==2.19.1.1
+fbprophet==0.7.1
+streamlit
+pandas
