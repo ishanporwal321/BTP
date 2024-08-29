@@ -1,5 +1,5 @@
-numpy
-Cython
+numpy==1.21.0
+Cython==0.29.21
 pystan==2.19.1.1
 prophet
 cmdstanpy
