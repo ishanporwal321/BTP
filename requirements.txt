@@ -5,4 +5,4 @@ streamlit
 prophet==1.1
 pandas
 matplotlib
-holidays==0.11.3.1
+holidays>=0.13,<0.15
