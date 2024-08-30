@@ -1,5 +1,5 @@
-numpy<2.0
+numpy==1.24.3  # Choose a version before 2.0 release
 streamlit
-prophet
+prophet==1.1  # Ensure you're using a compatible version of Prophet
 pandas
 matplotlib
