@@ -1,5 +1,8 @@
-numpy==1.24.3  # Choose a version before 2.0 release
+setuptools
+wheel
+numpy==1.24.3
 streamlit
-prophet==1.1  # Ensure you're using a compatible version of Prophet
+prophet==1.1
 pandas
 matplotlib
+pip install --upgrade pip
