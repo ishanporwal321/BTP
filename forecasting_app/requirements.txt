@@ -1,8 +1,0 @@
-setuptools>=58.0.0
-numpy==1.21.0
-Cython==0.29.21
-pystan==2.19.1.1
-prophet
-cmdstanpy
-streamlit
-pandas
