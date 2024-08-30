@@ -1,7 +1,8 @@
-setuptools
+setuptools==58.0.4
 wheel
 numpy==1.24.3
 streamlit
 prophet==1.1
 pandas
 matplotlib
+holidays==0.11.3.1
